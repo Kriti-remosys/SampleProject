@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddToCart_withoutlogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4353ba28-a8cb-443c-a260-afffcc305d03</testCaseGuid>
+</TestCaseEntity>

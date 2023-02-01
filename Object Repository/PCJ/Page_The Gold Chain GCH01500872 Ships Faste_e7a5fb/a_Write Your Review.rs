@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Write Your Review</name>
+   <tag></tag>
+   <elementGuidId>adddcc8e-e613-4576-820b-e1fc9be91089</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.iconappend2.slip.write-review.popuplogin</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>068f82c3-7930-47f3-b79a-49b0378b357a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/productreview/id/54418</value>
+      <webElementGuid>d76e1cfb-9a8c-41e5-b6f0-77c5d9f16fab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>iconappend2 slip write-review popuplogin</value>
+      <webElementGuid>1a08588d-1026-4c70-b807-5382839a9468</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>review</value>
+      <webElementGuid>92999dce-2d88-4a26-8012-f1e94f792849</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>redirect</name>
+      <type>Main</type>
+      <value>productreview/id/54418</value>
+      <webElementGuid>bf4718c2-b958-4b87-b911-41c1320429da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Write Your Review</value>
+      <webElementGuid>896c159f-ce27-4f9b-af0d-160d184293dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;leftPanelOuter margin-bottom&quot;]/div[@class=&quot;light-bg sm-bg clearfix&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;productDetails col-xs-12 col-sm-6&quot;]/div[@class=&quot;light-bg inner-details&quot;]/div[@class=&quot;titleSec clearfix&quot;]/ul[@class=&quot;clearfix strip padding-top margin-bottom&quot;]/li[1]/a[@class=&quot;iconappend2 slip write-review popuplogin&quot;]</value>
+      <webElementGuid>faab581f-3906-409c-9170-aff67c85a424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/ul/li/a</value>
+      <webElementGuid>2e5595e8-debe-4b46-9f3f-f6f7daac0612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Write Your Review')]</value>
+      <webElementGuid>a0caf8ba-d5da-4df4-ac58-f8819afa0d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GCH01500872'])[1]/following::a[1]</value>
+      <webElementGuid>c940e23e-d3d4-4008-8464-807ceec9e8ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PCJ - Kingsway Camp, New Delhi'])[1]/following::a[1]</value>
+      <webElementGuid>2dea0772-12b7-4b38-a699-1b3b3a5d4608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gold Chain'])[2]/preceding::a[1]</value>
+      <webElementGuid>eb566e74-db32-4635-9c49-c1001b0d159a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M.R.P :'])[1]/preceding::a[1]</value>
+      <webElementGuid>af055285-6472-4416-9e20-992e7f83baf9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Write Your Review']/parent::*</value>
+      <webElementGuid>edb82330-7bb4-4e3b-9116-47d587f40f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/productreview/id/54418')]</value>
+      <webElementGuid>ebdc5c33-4662-4182-b883-c28dad888588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/ul/li/a</value>
+      <webElementGuid>ae169bac-1f5e-442b-b543-3d376988ffdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/productreview/id/54418' and (text() = 'Write Your Review' or . = 'Write Your Review')]</value>
+      <webElementGuid>10111d74-dfeb-447d-9d64-7b2d7a27548d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

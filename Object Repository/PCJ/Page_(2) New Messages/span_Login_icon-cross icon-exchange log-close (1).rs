@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login_icon-cross icon-exchange log-close (1)</name>
+   <tag></tag>
+   <elementGuidId>749d98fd-b4a7-4979-849d-2d8e3fc3234f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-cross.icon-exchange.log-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2c5f19db-2c83-4859-b016-98ef760d3b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-cross icon-exchange log-close</value>
+      <webElementGuid>b911425d-8844-47b9-987e-aca5a17302b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[@class=&quot;clearfix popupMainDiv&quot;]/div[@class=&quot;contentPanal pos-rel&quot;]/span[@class=&quot;icon-cross icon-exchange log-close&quot;]</value>
+      <webElementGuid>86ff1330-7967-411f-a178-747fa950910c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/PCJ/Page_(2) New Messages/iframe_Loading_loginPopup_1</value>
+      <webElementGuid>1ebdaf46-8fcf-407d-84e9-398b2ccfb851</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>11c0cf76-61cf-4079-ab8e-67d8a4223c5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

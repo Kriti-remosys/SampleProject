@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shipping Details Updated_icon-delete marg_9901dc</name>
+   <tag></tag>
+   <elementGuidId>d854bf25-f6d3-420c-9210-994ece64e9cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/ul/li/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon-delete.margin-right-half</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6ecb922-22e3-436c-90b9-6e8bc48574c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Javascript:jConfirm('Are you sure want to delete this item ?', 'Delete', function(r) {
+									if(r==true) { window.location.href='/user/deleteAddress/shippingID/13539'; };});</value>
+      <webElementGuid>8fda6a67-6111-4a64-b46e-2048a07fdea5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>13539</value>
+      <webElementGuid>14c4db12-ff58-4751-a2d2-6f3af326e111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-delete margin-right-half</value>
+      <webElementGuid>224f02df-d6f6-4f6c-934b-eb6eeca0e6d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>confirm_head</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>dc82da1f-a28d-4615-a6e1-7761d0cbc6a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>0cb77337-399f-4c59-a953-75472b351044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-9&quot;]/div[@class=&quot;right-panel light-bg&quot;]/div[@class=&quot;edit-profile clearfix&quot;]/ul[@class=&quot;multiple-address margin-top&quot;]/li[@class=&quot;margin-bottom pos-rel&quot;]/div[@class=&quot;add-list&quot;]/div[@class=&quot;pull-right list-icons&quot;]/a[@class=&quot;icon-delete margin-right-half&quot;]</value>
+      <webElementGuid>aae3f7cd-aa71-417a-837e-904c538828bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/ul/li/div/div/a</value>
+      <webElementGuid>6ae4204b-5927-4912-95cd-a0c6e1039f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;Javascript:jConfirm('Are you sure want to delete this item ?', 'Delete', function(r) {
+									if(r==true) { window.location.href='/user/deleteAddress/shippingID/13539'; };});&quot;)]</value>
+      <webElementGuid>5c9d282b-3f7e-4709-9513-c156a52570a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/a</value>
+      <webElementGuid>e88268cf-2ab8-4a83-9e0c-51d7a1f7f422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = concat(&quot;Javascript:jConfirm(&quot; , &quot;'&quot; , &quot;Are you sure want to delete this item ?&quot; , &quot;'&quot; , &quot;, &quot; , &quot;'&quot; , &quot;Delete&quot; , &quot;'&quot; , &quot;, function(r) {
+									if(r==true) { window.location.href=&quot; , &quot;'&quot; , &quot;/user/deleteAddress/shippingID/13539&quot; , &quot;'&quot; , &quot;; };});&quot;) and @title = 'Delete']</value>
+      <webElementGuid>d30ae0d1-c204-4c80-8af1-fd906bc7eefb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

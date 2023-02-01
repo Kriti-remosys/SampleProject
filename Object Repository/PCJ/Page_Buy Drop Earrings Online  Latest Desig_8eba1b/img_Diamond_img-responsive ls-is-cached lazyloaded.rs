@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Diamond_img-responsive ls-is-cached lazyloaded</name>
+   <tag></tag>
+   <elementGuidId>65b032b6-3a26-49df-a4e2-d9d068313b1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li[10]/div/div/a[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7a2cce35-e6b5-4d67-a99b-67296ca390dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>ef2c4494-45bd-4fff-918a-2d8301ceaec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/catalog/product/custom/d/DS00612E-4__857883839.jpg</value>
+      <webElementGuid>73f48e1c-9de5-41c3-bd9e-fb3db1f6836e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>The Torrence Diamond Earrings</value>
+      <webElementGuid>09dac21e-545f-42d3-9c29-286b93c1eb2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;imageBox&quot;]/a[@class=&quot;hover&quot;]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>48f07870-a61d-4326-996e-876123f1d940</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li[10]/div/div/a[2]/img</value>
+      <webElementGuid>7afdf34d-585b-4020-9d02-1ca58dd85765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='The Torrence Diamond Earrings'])[2]</value>
+      <webElementGuid>3f7d08de-c249-415e-9e1f-45be0ff3bb5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/div/div/a[2]/img</value>
+      <webElementGuid>8c89cf03-77a1-45d6-b015-1bedf72c5090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cf-cdn.pcjeweller.com/public/uploads/catalog/product/custom/d/DS00612E-4__857883839.jpg' and @alt = 'The Torrence Diamond Earrings']</value>
+      <webElementGuid>1a042f1a-e54f-4680-8ae4-517b2fc180e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

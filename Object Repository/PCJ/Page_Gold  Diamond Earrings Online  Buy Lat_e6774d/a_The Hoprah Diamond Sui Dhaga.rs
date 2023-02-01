@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Hoprah Diamond Sui Dhaga</name>
+   <tag></tag>
+   <elementGuidId>a9b57cc2-3553-45e0-bae8-126e5d40025c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li[6]/div/div[2]/div/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a5ff9d26-a713-4342-b4fe-22621a4fe666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-hoprah-diamond-sui-dhaga.html?bid=MTEwMg==</value>
+      <webElementGuid>2d83173a-8814-4399-ab0e-5f97defcd880</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>a275310b-ef9c-4e49-9073-db293b6ddd47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Hoprah Diamond Sui Dhaga</value>
+      <webElementGuid>03acf6e2-8b49-4e97-9deb-cac83f888e17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;deatils pos-rel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 title-section text-center ss&quot;]/div[@class=&quot;hidden-xs&quot;]/h2[@class=&quot;productTitle h5style font-medium rmv-padding text-overflow margin-bottom&quot;]/a[1]</value>
+      <webElementGuid>a2add57f-6d24-4b3c-a548-ef9e37dae4d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li[6]/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>237446cd-2e8b-4457-a06a-bf68fce22942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Hoprah Diamond Sui Dhaga')]</value>
+      <webElementGuid>6380a741-54c6-4fe9-81a8-588c9f67de27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW DETAILS'])[11]/following::a[2]</value>
+      <webElementGuid>f5e65101-ae2e-42b1-87a6-8a77ce80c557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY NOW'])[11]/following::a[3]</value>
+      <webElementGuid>cfe4b0d6-2632-4b5a-9980-7a8702560a00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹33,446'])[1]/preceding::a[1]</value>
+      <webElementGuid>e70ad4af-7256-46b3-a31c-1449c3dd22c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹39,348'])[1]/preceding::a[1]</value>
+      <webElementGuid>1f08ae5a-3ab2-4d75-9e2f-99514916f07d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Hoprah Diamond Sui Dhaga']/parent::*</value>
+      <webElementGuid>3c5e6365-2cbd-49d0-97b0-b37a03ed071d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/the-hoprah-diamond-sui-dhaga.html?bid=MTEwMg==')])[3]</value>
+      <webElementGuid>efbc206b-403b-4a37-82fd-f991cff530bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>4fe91340-d497-4f33-b24d-8192773f1ed8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-hoprah-diamond-sui-dhaga.html?bid=MTEwMg==' and (text() = 'The Hoprah Diamond Sui Dhaga' or . = 'The Hoprah Diamond Sui Dhaga')]</value>
+      <webElementGuid>5e40cd94-42a8-49ea-b3d1-e1dde93dc9da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

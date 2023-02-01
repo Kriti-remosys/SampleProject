@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_draftcardtesting1gmail.com</name>
+   <tag></tag>
+   <elementGuidId>de3b06dd-a54f-4615-ab8b-2e9694ccd741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formPassword']/fieldset/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-5.col-xs-5.field</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f9c26ed0-9ce4-4c65-92f0-bc9687baedc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-md-5 col-xs-5 field</value>
+      <webElementGuid>78ae0cc6-583f-4c71-821e-c3111f73390a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>draftcardtesting1@gmail.com</value>
+      <webElementGuid>e51a034c-ac9d-4f81-829b-3c0d5384bfc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formPassword&quot;)/fieldset[@class=&quot;form1&quot;]/div[@class=&quot;clearfix change-password&quot;]/div[@class=&quot;form-group row&quot;]/div[@class=&quot;col-md-5 col-xs-5 field&quot;]</value>
+      <webElementGuid>62a9807f-cc48-423d-a143-acde24bb25ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formPassword']/fieldset/div/div/div</value>
+      <webElementGuid>fd6b9d26-656b-4f05-9588-f295ae768c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Address :'])[1]/following::div[1]</value>
+      <webElementGuid>881bfb5e-e1c4-4793-8f3a-e66c2cee3b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Password'])[1]/following::div[4]</value>
+      <webElementGuid>d29a27de-61f2-4123-8c79-4e3a3151e070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::div[1]</value>
+      <webElementGuid>7cc54a5b-c9d2-439f-941e-e53cb1a7bbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='draftcardtesting1@gmail.com']/parent::*</value>
+      <webElementGuid>d012b9b9-dc81-4401-8938-3e558db3049d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/div/div</value>
+      <webElementGuid>9b2f75ae-af51-4e19-8263-d18c3f4ab559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'draftcardtesting1@gmail.com' or . = 'draftcardtesting1@gmail.com')]</value>
+      <webElementGuid>d57f0134-23af-4b32-b863-6a930641a38b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

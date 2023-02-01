@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login_icon-cross icon-exchange log-close</name>
+   <tag></tag>
+   <elementGuidId>9c337e71-a386-4102-bbff-9bebca0616af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-cross.icon-exchange.log-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fad3c28b-04bc-4cc8-89a3-89b6bcb6c1cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-cross icon-exchange log-close</value>
+      <webElementGuid>8c19e525-8e44-4355-b10f-43abec261d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[@class=&quot;clearfix popupMainDiv&quot;]/div[@class=&quot;contentPanal pos-rel&quot;]/span[@class=&quot;icon-cross icon-exchange log-close&quot;]</value>
+      <webElementGuid>6358ee94-1b08-44d1-9487-a9ebef8bd952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/PCJ/Page_10 Gram Laxmi Ganesh Silver Coin by PC_2bf219/iframe_Loading_loginPopup</value>
+      <webElementGuid>258d22c6-3d84-4225-bfbd-f21cd6100080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>a5849c9a-3552-4b3f-bba8-a79c261bcd05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

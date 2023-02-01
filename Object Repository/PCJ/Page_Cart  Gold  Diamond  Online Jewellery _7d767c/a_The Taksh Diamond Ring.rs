@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Taksh Diamond Ring</name>
+   <tag></tag>
+   <elementGuidId>bbc07671-6620-4e9e-a01d-e504efd29b20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_ajax_section']/div[3]/div/div/figcaption/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ce8fbed3-02b7-476d-b75c-a9c0fc57ef5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-taksh-diamond-ring.html?configid=458473</value>
+      <webElementGuid>84fa0be9-7e66-45d6-b91e-f31cf1bd0f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>readOnlyLink dark</value>
+      <webElementGuid>0e9fcab4-c9de-4663-87e0-a9930bcf4090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>17b277fb-7479-4ba9-a1cf-43dcef88daee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>The Taksh Diamond Ring</value>
+      <webElementGuid>0de430fc-1eae-4f33-a43e-afa8e5861541</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Taksh Diamond Ring</value>
+      <webElementGuid>7be950b0-7e87-45ce-82c7-2813f2d06bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_section&quot;)/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;col-md-9 col-xs-12 cartinr left&quot;]/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;clearfix cartItem&quot;]/div[@class=&quot;col-sm-6 col-xs-6 col-lg-6 rmv-padding-left brk6-left&quot;]/div[@class=&quot;cartItemName clearfix&quot;]/figcaption[1]/a[@class=&quot;readOnlyLink dark&quot;]</value>
+      <webElementGuid>ecf80dd6-61b1-4100-b15d-53a690be6523</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_ajax_section']/div[3]/div/div/figcaption/a</value>
+      <webElementGuid>531dd77e-cccb-4e56-96d9-7b50964da600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Taksh Diamond Ring')]</value>
+      <webElementGuid>761942f9-9ba5-41c2-9b38-fdf24c4e468e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal Purity :'])[1]/following::a[2]</value>
+      <webElementGuid>ee9a2973-cada-44ce-ae02-3b9654627b16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='White'])[2]/following::a[2]</value>
+      <webElementGuid>a41dcbab-4c32-446b-adc5-c8f7f9b01f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/preceding::a[1]</value>
+      <webElementGuid>4424c8e1-bd65-49fd-a769-851f83adb114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Taksh Diamond Ring']/parent::*</value>
+      <webElementGuid>2bdd3117-aba4-4071-a480-b43e05a61745</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/the-taksh-diamond-ring.html?configid=458473')]</value>
+      <webElementGuid>3a53d5c2-e336-4d50-80b6-5bc0ace9b5ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/figcaption/a</value>
+      <webElementGuid>5c4e485d-0176-4c57-a718-21e375844de8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-taksh-diamond-ring.html?configid=458473' and @title = 'The Taksh Diamond Ring' and (text() = 'The Taksh Diamond Ring' or . = 'The Taksh Diamond Ring')]</value>
+      <webElementGuid>2c4d6e73-0537-42b6-b165-98c276de2c60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

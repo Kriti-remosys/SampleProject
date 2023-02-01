@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Write Your Review</name>
+   <tag></tag>
+   <elementGuidId>16893975-610f-4235-970b-8bf7b5769f45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='spec-accordion']/div[5]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-default.review.pull-right.popuplogin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>be85f268-d931-44d4-a6ca-ea1bf7294bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/productreview/id/1070/</value>
+      <webElementGuid>06b9916a-4957-4f88-8794-5370c3f5a2b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default review pull-right popuplogin</value>
+      <webElementGuid>a64c5ac2-a9c0-419c-a8f9-a6763d459fb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>review</value>
+      <webElementGuid>c10f24d0-d09d-44b1-9afb-5e5493899581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>redirect</name>
+      <type>Main</type>
+      <value>productreview/id/1070</value>
+      <webElementGuid>8a65edef-6b47-4f84-a93c-266f70c78ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Write Your Review</value>
+      <webElementGuid>8e60de82-23bf-4d3e-9327-201644159eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spec-accordion&quot;)/div[@class=&quot;margin-vertical  clearfix light-bg write-review&quot;]/a[@class=&quot;btn btn-default review pull-right popuplogin&quot;]</value>
+      <webElementGuid>d66c21a7-ff23-4ab9-bb45-58356ee212dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='spec-accordion']/div[5]/a</value>
+      <webElementGuid>188e97bd-5987-44a9-94c3-5f3a7ec6a302</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Write Your Review')])[2]</value>
+      <webElementGuid>a8ea1842-9d0e-47be-b492-67f2328e2322</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicable'])[2]/following::a[1]</value>
+      <webElementGuid>7a5b865a-605b-4a45-becb-b11fe6ed852e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lifetime Buyback'])[1]/following::a[1]</value>
+      <webElementGuid>ceb76bb7-f752-4c29-8327-cf22635633d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CUSTOMER REVIEWS'])[1]/preceding::a[1]</value>
+      <webElementGuid>e62e2a1e-142d-41f4-a58e-69d07a5b23f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write a Review and get a Rs. 500/- Gift Voucher redeemable on your next purchase'])[1]/preceding::a[1]</value>
+      <webElementGuid>fbbf17f2-7ba4-4920-96b7-9fc4190788b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/productreview/id/1070/')]</value>
+      <webElementGuid>554877e9-9975-4c85-8703-f1e662cf9561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[5]/a</value>
+      <webElementGuid>4c35844c-9edc-4303-ad27-1e29e1035227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/productreview/id/1070/' and (text() = 'Write Your Review' or . = 'Write Your Review')]</value>
+      <webElementGuid>02a1801d-3878-4cf1-a3c6-8bc6aa12fe1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

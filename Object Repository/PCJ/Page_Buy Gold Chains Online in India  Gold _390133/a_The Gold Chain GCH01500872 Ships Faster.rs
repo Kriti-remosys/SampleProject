@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Gold Chain GCH01500872 Ships Faster</name>
+   <tag></tag>
+   <elementGuidId>223d85e3-9966-40b1-8e52-2f382b0e89d6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li[10]/div/div[2]/div/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9f708510-8da5-4e91-8419-4d99319251b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-gold-chain-gch01500872-ships-faster.html?bid=MTkyMg==</value>
+      <webElementGuid>835fbff0-30f6-4e60-aa04-6985c35f2b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>0feb545d-714b-412a-87f0-a3c4ade44575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Gold Chain GCH01500872 Ships Faster</value>
+      <webElementGuid>06202e57-ef29-411a-b68e-6cc8d4258ef7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;deatils pos-rel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 title-section text-center ss&quot;]/div[@class=&quot;hidden-xs&quot;]/h2[@class=&quot;productTitle h5style font-medium rmv-padding text-overflow margin-bottom&quot;]/a[1]</value>
+      <webElementGuid>f5ac8266-17b6-4238-a36a-089c361083ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li[10]/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>5f65be87-3aaa-4c71-b929-911ae893dbc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Gold Chain GCH01500872 Ships Faster')]</value>
+      <webElementGuid>57a66324-6bfc-483a-9bde-5b6986c315f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW DETAILS'])[19]/following::a[2]</value>
+      <webElementGuid>c3e012a6-2fdf-4958-8c2e-fe376f60cb7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY NOW'])[19]/following::a[3]</value>
+      <webElementGuid>c7f89f20-2f3c-47e0-b47b-cc900fa27bad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹139,868'])[1]/preceding::a[1]</value>
+      <webElementGuid>7da904d4-885b-4589-ab90-1778d1f4e291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gold Chain'])[11]/preceding::a[1]</value>
+      <webElementGuid>35871efe-10e2-4954-b498-2b2cbebed2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Gold Chain GCH01500872 Ships Faster']/parent::*</value>
+      <webElementGuid>5ef80027-479c-4f70-8e05-7d8506f0b68c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/the-gold-chain-gch01500872-ships-faster.html?bid=MTkyMg==')])[2]</value>
+      <webElementGuid>0b3770c7-c233-4ad9-aea9-c3e20f36f246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>e0d5b318-7d9c-43ed-85e2-4623a0573251</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-gold-chain-gch01500872-ships-faster.html?bid=MTkyMg==' and (text() = 'The Gold Chain GCH01500872 Ships Faster' or . = 'The Gold Chain GCH01500872 Ships Faster')]</value>
+      <webElementGuid>a367dfb8-b400-4538-be35-ce4c2f0a9cf7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

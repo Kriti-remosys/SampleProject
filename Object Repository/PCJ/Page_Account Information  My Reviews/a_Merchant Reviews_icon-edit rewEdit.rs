@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Merchant Reviews_icon-edit rewEdit</name>
+   <tag></tag>
+   <elementGuidId>b0a3eeb2-e517-41a8-9bae-a280a4d31887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='myTable1']/li/div/span/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.icon-edit.rewEdit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>71299b84-5115-4599-a5a0-be0805912338</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/reviewedit/id/309/type/product/</value>
+      <webElementGuid>028860dc-dfd9-4b7e-884b-952e0198e57a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-edit rewEdit</value>
+      <webElementGuid>e6d17e7f-3752-4c75-9b46-80c22a263c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>59a93541-5189-4b41-9713-6652f0c46c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myTable1&quot;)/li[@class=&quot;prdt-review page1&quot;]/div[@class=&quot;pdt-details clearfix&quot;]/span[@class=&quot;pull-right&quot;]/a[@class=&quot;icon-edit rewEdit&quot;]</value>
+      <webElementGuid>4fa181fd-c15e-41a4-b57c-14538adb011a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='myTable1']/li/div/span/a</value>
+      <webElementGuid>6e1e8818-179d-4a26-b948-7511103358ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/reviewedit/id/309/type/product/')]</value>
+      <webElementGuid>8ac8b24a-23ea-4cdb-bbe5-78fc935aa022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/span/a</value>
+      <webElementGuid>215118cd-3b85-44d7-832a-b815e66590bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/reviewedit/id/309/type/product/' and @title = 'Edit']</value>
+      <webElementGuid>cb9d9a3b-f8e5-49c3-862b-d039177ba4ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

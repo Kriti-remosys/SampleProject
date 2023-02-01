@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_FILTERED BY_img-responsive ls-is-cached_61787d</name>
+   <tag></tag>
+   <elementGuidId>17c1d9b3-9b09-42bd-a4e2-bff7479c3a40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li/div/div/a[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.hover > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3ba93c16-26ba-4ac9-8833-b45a31e4f60b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>80625467-3993-4a6c-b3bc-c760ac92d4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/catalog/product/custom/l/LR00055-4__1422544014.jpg</value>
+      <webElementGuid>779ab79a-07ba-41e7-8f44-afe1022da73e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>The Naveah Diamond Ring</value>
+      <webElementGuid>6db6c8ff-80a2-4add-b85a-23ee6ec659c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;imageBox&quot;]/a[@class=&quot;hover&quot;]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>d680ec41-928c-44d3-805d-b2aa96123814</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li/div/div/a[2]/img</value>
+      <webElementGuid>38aa9229-8e25-4ee1-8d79-e2dec1036c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='The Naveah Diamond Ring'])[2]</value>
+      <webElementGuid>d6843803-0437-47d9-95d2-b15aed8295a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>059c1650-e36c-4439-947b-b03f6d9a34e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cf-cdn.pcjeweller.com/public/uploads/catalog/product/custom/l/LR00055-4__1422544014.jpg' and @alt = 'The Naveah Diamond Ring']</value>
+      <webElementGuid>b9499ff6-0416-463c-8a6d-468717c18c71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

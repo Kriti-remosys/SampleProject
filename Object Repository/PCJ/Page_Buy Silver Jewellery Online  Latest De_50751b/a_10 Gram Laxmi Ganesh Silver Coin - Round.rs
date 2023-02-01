@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_10 Gram Laxmi Ganesh Silver Coin - Round</name>
+   <tag></tag>
+   <elementGuidId>c3bb68e1-3172-4557-a449-b8197e15c57f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li[9]/div/div[2]/div/div/div/h2/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4af93e86-a856-4724-8a38-366a174d5931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/10-gram-laxmi-ganesh-silver-coin.html?bid=MTIzNg==</value>
+      <webElementGuid>86853b0b-2da8-4a57-97e0-690b4c6f407f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>72865c8c-a437-4bc9-b7ee-d43a123cc781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10 Gram Laxmi Ganesh Silver Coin - Round</value>
+      <webElementGuid>19020c41-1c73-4ab4-a6c7-86c2e95a0cb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;deatils pos-rel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 title-section text-center ss&quot;]/div[@class=&quot;hidden-xs&quot;]/h2[@class=&quot;productTitle h5style font-medium rmv-padding text-overflow margin-bottom&quot;]/a[1]</value>
+      <webElementGuid>d1ad7548-f6f9-4470-b72d-ad74f12520bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li[9]/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>ee1d4e09-8948-44dd-bb23-19f2948b50ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'10 Gram Laxmi Ganesh Silver Coin - Round')]</value>
+      <webElementGuid>8327723f-0b0a-4953-96b8-47e7c1939ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW DETAILS'])[17]/following::a[2]</value>
+      <webElementGuid>80b9b4be-49a0-4fb1-bd5b-a5a09803bc20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY NOW'])[17]/following::a[3]</value>
+      <webElementGuid>113bd384-38ad-454f-ab6e-6cef021b825f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹871'])[1]/preceding::a[1]</value>
+      <webElementGuid>0584f37f-12b4-4c70-babf-d1d19d320386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹968'])[1]/preceding::a[1]</value>
+      <webElementGuid>9bf3b065-abcb-4456-8bf2-8c4985dc9939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='10 Gram Laxmi Ganesh Silver Coin - Round']/parent::*</value>
+      <webElementGuid>be937ffe-7f34-455f-a39e-d81bc1499cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/10-gram-laxmi-ganesh-silver-coin.html?bid=MTIzNg==')])[3]</value>
+      <webElementGuid>d83582cd-0fa3-4a5e-a4f4-fe481f87db0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/div/div[2]/div/div/div/h2/a</value>
+      <webElementGuid>dd88c62e-969f-442d-80e8-56cd7ca32e25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/10-gram-laxmi-ganesh-silver-coin.html?bid=MTIzNg==' and (text() = '10 Gram Laxmi Ganesh Silver Coin - Round' or . = '10 Gram Laxmi Ganesh Silver Coin - Round')]</value>
+      <webElementGuid>83eba370-68b5-4b84-a63e-933ae5ca1908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

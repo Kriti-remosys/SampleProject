@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_White Gold</name>
+   <tag></tag>
+   <elementGuidId>eb1cb8b4-9c3f-4fde-b01e-7511c345d9f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='opt_1070_168317']/div/div/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nice-select.listbox.form-control.custom_option.inv_no.metalclass.open > ul.list > li.option</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>4f3ae99e-c87f-491a-9af4-ccc426d8062a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>342664</value>
+      <webElementGuid>7b8893e1-37b9-4224-bac4-b88325b6ac8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>a049a7da-dcde-478d-b9a1-34b70d580c9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>White Gold</value>
+      <webElementGuid>dfc067f8-69f1-404c-88cc-2cfa432b8550</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;opt_1070_168317&quot;)/div[@class=&quot;custom-div&quot;]/div[@class=&quot;nice-select listbox form-control custom_option inv_no metalclass open&quot;]/ul[@class=&quot;list&quot;]/li[@class=&quot;option&quot;]</value>
+      <webElementGuid>2c8510e2-b0ac-4f03-832c-55b45cc273a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='opt_1070_168317']/div/div/ul/li</value>
+      <webElementGuid>1d8b20d4-53d0-4aa1-be0d-e409600016ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yellow Gold'])[2]/following::li[1]</value>
+      <webElementGuid>27584037-86fb-4b41-9fec-a3392748df5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal'])[1]/following::li[1]</value>
+      <webElementGuid>70f74b89-65cf-4bfd-a24a-1f9ca948c387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yellow Gold'])[3]/preceding::li[1]</value>
+      <webElementGuid>3f92a618-95d2-4a94-ae0a-395a98770ae0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stone'])[1]/preceding::li[4]</value>
+      <webElementGuid>0a66736d-6208-466f-9f2e-f7bae8ba2c9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/div/div/div/div/div/div/div/ul/li</value>
+      <webElementGuid>f50a3412-6019-4ca9-bf0b-c1edbf780fe6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'White Gold' or . = 'White Gold')]</value>
+      <webElementGuid>c4df95a6-7ffc-4c7a-bd4a-c6a5a02a552d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

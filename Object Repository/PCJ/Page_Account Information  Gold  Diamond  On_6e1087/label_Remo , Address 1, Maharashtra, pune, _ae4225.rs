@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Remo , Address 1, Maharashtra, pune, _ae4225</name>
+   <tag></tag>
+   <elementGuidId>5f27e53c-83ff-488f-b1d7-fa5e5aaeefd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/ul/li/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>514f7f06-af61-490e-9ef9-41b000c38241</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>makePrimaryRadio_1</value>
+      <webElementGuid>0e01b452-151e-4996-a3c9-b835f9228e8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Remo , Address 1, Maharashtra, pune, Test, India</value>
+      <webElementGuid>820140f0-af53-4d10-a93e-f0eb9fd59b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-9&quot;]/div[@class=&quot;right-panel light-bg&quot;]/div[@class=&quot;edit-profile clearfix&quot;]/ul[@class=&quot;multiple-address margin-top&quot;]/li[@class=&quot;margin-bottom pos-rel&quot;]/div[@class=&quot;add-list&quot;]/label[1]</value>
+      <webElementGuid>c293e293-57f2-413e-b949-06c957e5a728</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/ul/li/div/label</value>
+      <webElementGuid>29d70df3-0c4f-4c07-af3e-b7d5dbcfa618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping Details Updated.'])[1]/following::label[1]</value>
+      <webElementGuid>0e6218ce-1907-4139-b30a-abc575414281</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose any one to make it primary'])[1]/following::label[1]</value>
+      <webElementGuid>8f6d9e8b-1798-4f2a-bd8d-1de0f2c57562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Address'])[1]/preceding::label[1]</value>
+      <webElementGuid>9ba4ad21-64a5-4f2d-a7c2-b47778d33e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP WITHOUT WORRY'])[1]/preceding::label[1]</value>
+      <webElementGuid>4314ffc9-04d9-4879-b255-69c5f3787bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Remo , Address 1, Maharashtra, pune, Test, India']/parent::*</value>
+      <webElementGuid>020f487f-2c52-4fd1-99ce-a69f67a72479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>2b454660-2b3d-4b7a-a956-25327b0b93d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' Remo , Address 1, Maharashtra, pune, Test, India' or . = ' Remo , Address 1, Maharashtra, pune, Test, India')]</value>
+      <webElementGuid>cb766f77-3bb5-40f2-b7ac-3c1d32e9259d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

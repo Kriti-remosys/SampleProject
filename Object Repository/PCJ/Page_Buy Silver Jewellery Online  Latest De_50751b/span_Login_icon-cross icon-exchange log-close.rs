@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login_icon-cross icon-exchange log-close</name>
+   <tag></tag>
+   <elementGuidId>be65df68-335e-436e-bbfb-6c7257bdef39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon-cross.icon-exchange.log-close</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0cfd1dfe-1d44-49ab-9400-134498f97e8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-cross icon-exchange log-close</value>
+      <webElementGuid>0cf4aff4-8a2a-49e5-9015-2b1d58729c08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;ltr&quot;]/div[@class=&quot;clearfix popupMainDiv&quot;]/div[@class=&quot;contentPanal pos-rel&quot;]/span[@class=&quot;icon-cross icon-exchange log-close&quot;]</value>
+      <webElementGuid>1beca7ab-3e76-4146-a7a1-d50fae7571b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/PCJ/Page_Buy Silver Jewellery Online  Latest De_50751b/iframe_Loading_loginPopup</value>
+      <webElementGuid>cb55a293-1670-486f-b1f9-98d9585578dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>6b4c0114-ca7c-4cac-902c-c4f12565f1cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

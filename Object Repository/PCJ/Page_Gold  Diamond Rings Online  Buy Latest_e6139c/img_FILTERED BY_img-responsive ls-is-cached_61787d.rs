@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_FILTERED BY_img-responsive ls-is-cached_61787d</name>
+   <tag></tag>
+   <elementGuidId>d484a165-76aa-40a6-aa27-bdc5c97a879a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li/div/div/a[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.hover > img.img-responsive.ls-is-cached.lazyloaded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>75222407-63a7-4984-b4ba-b4fbb0107d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive ls-is-cached lazyloaded</value>
+      <webElementGuid>e5b6901d-a9b7-4338-8f03-7426beae91a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cf-cdn.pcjeweller.com/public/uploads/catalog/product/custom/g/GR00100-4__946730847.jpg</value>
+      <webElementGuid>8ea3bf68-ad55-408b-9879-56947512d2df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>The Taksh Diamond Ring</value>
+      <webElementGuid>ac3e45eb-85bf-402c-bc61-32582e9af6ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;imageBox&quot;]/a[@class=&quot;hover&quot;]/img[@class=&quot;img-responsive ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>2ab1d77f-fe4e-4846-8cf0-afa89fac8c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li/div/div/a[2]/img</value>
+      <webElementGuid>14a51d8d-cf20-493b-aae3-c83e35f63738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='The Taksh Diamond Ring'])[2]</value>
+      <webElementGuid>3c4d8dc3-8526-487b-9bda-70c85eef2819</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>d976620e-aead-4514-bd6c-700189c4175e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cf-cdn.pcjeweller.com/public/uploads/catalog/product/custom/g/GR00100-4__946730847.jpg' and @alt = 'The Taksh Diamond Ring']</value>
+      <webElementGuid>32b6c19a-1c59-4a92-9cb7-cacd426d0fac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

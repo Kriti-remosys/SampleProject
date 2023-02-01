@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_10 Gram Laxmi Ganesh Silver Coin - Round</name>
+   <tag></tag>
+   <elementGuidId>6f4f4467-5310-4c3e-9395-46ceae2b3be5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>23a4fabb-4322-406c-af8b-90ea77351f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark</value>
+      <webElementGuid>4fdf3057-c426-4ffc-9dcd-dcad516753b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>10 Gram Laxmi Ganesh Silver Coin - Round </value>
+      <webElementGuid>adfd8b83-9585-4a36-b272-36a3e0d7242b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;leftPanelOuter margin-bottom&quot;]/div[@class=&quot;light-bg sm-bg clearfix&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;productDetails col-xs-12 col-sm-6&quot;]/div[@class=&quot;light-bg inner-details&quot;]/div[@class=&quot;titleSec clearfix&quot;]/div[@class=&quot;clearfix pos-rel&quot;]/h1[@class=&quot;dark&quot;]</value>
+      <webElementGuid>59f6973c-97bf-47d7-832f-52e7bf96bae1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/div/h1</value>
+      <webElementGuid>2e3726c3-63fb-4237-9919-eda290189ac7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Jeweller'])[1]/preceding::h1[1]</value>
+      <webElementGuid>50217ac7-2269-4fe1-a2d4-28ceaf0942be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>c9935160-be51-4f4e-9d6b-6506e4ff81cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '10 Gram Laxmi Ganesh Silver Coin - Round ' or . = '10 Gram Laxmi Ganesh Silver Coin - Round ')]</value>
+      <webElementGuid>2c047a21-1cad-407f-9978-5d22014a9fc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

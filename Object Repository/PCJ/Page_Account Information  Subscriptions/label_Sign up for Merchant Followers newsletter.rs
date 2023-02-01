@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Sign up for Merchant Followers newsletter</name>
+   <tag></tag>
+   <elementGuidId>ef5bf9f1-c3e3-4046-be7f-848e8fceeb4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='formUserSubscriptions']/fieldset/ul/li[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>bac4bb2e-1859-4a6b-b9f0-4134bdb460a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>followMerchantStatus</value>
+      <webElementGuid>3329dca9-d450-4fe1-b771-95aa984f84cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign up for Merchant Followers newsletter </value>
+      <webElementGuid>581d9d74-c6a8-46fc-987a-2527f63f20c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;formUserSubscriptions&quot;)/fieldset[1]/ul[1]/li[2]/label[1]</value>
+      <webElementGuid>41998808-eadb-412d-8a4b-3c9170352104</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='formUserSubscriptions']/fieldset/ul/li[2]/label</value>
+      <webElementGuid>e5e14cb3-3884-4eb9-9727-e1b3dde69630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up for Promotional newsletter'])[1]/following::label[1]</value>
+      <webElementGuid>9f0fa690-0493-46a4-95af-4af0085eac7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Notifications'])[1]/following::label[2]</value>
+      <webElementGuid>469301bc-4013-4058-8c7b-535d66f71bbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You must follow at least one merchant also to get the Merchant Followers newsletter'])[1]/preceding::label[1]</value>
+      <webElementGuid>82c78785-7218-436b-b1fd-5d721e84c0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP WITHOUT WORRY'])[1]/preceding::label[1]</value>
+      <webElementGuid>df3756aa-31bd-47b3-b976-9bfd73a71f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign up for Merchant Followers newsletter']/parent::*</value>
+      <webElementGuid>3cb20a63-7a10-48e4-b65d-f37162893a5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label</value>
+      <webElementGuid>5eb39a51-9630-4327-98c8-6b933cc54379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Sign up for Merchant Followers newsletter ' or . = 'Sign up for Merchant Followers newsletter ')]</value>
+      <webElementGuid>e610fcf3-c755-4549-bf60-0aff14c0c9fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

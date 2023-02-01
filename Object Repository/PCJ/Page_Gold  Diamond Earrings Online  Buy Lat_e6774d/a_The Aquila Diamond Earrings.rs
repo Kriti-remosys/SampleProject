@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Aquila Diamond Earrings</name>
+   <tag></tag>
+   <elementGuidId>c7e50bf6-0209-426d-bede-e65546a01cc5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li[21]/div/div[2]/div/div/div/div/h2/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>187b7073-4d53-40c0-812c-430ffa1167a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-aquila-diamond-earrings.html?bid=MTEwMg==</value>
+      <webElementGuid>324cf546-cda8-4398-9b90-2cda63ceac5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>e9e2192a-0d58-44ed-a452-ee7a9600b132</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>slip</value>
+      <webElementGuid>d101fad0-42d5-4aa5-84a0-edfd7363eaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Aquila Diamond Earrings</value>
+      <webElementGuid>ab7a47dd-60b3-4fd2-ad6f-45e486f7d27a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;deatils pos-rel&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 title-section text-center ss&quot;]/div[@class=&quot;col-sm-12 title-section text-center&quot;]/div[@class=&quot;hidden-xs&quot;]/h2[@class=&quot;productTitle h5style  rmv-padding text-overflow margin-bottom&quot;]/a[@class=&quot;slip&quot;]</value>
+      <webElementGuid>c02be8d7-a275-4eea-85e6-c85ca669ce3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li[21]/div/div[2]/div/div/div/div/h2/a</value>
+      <webElementGuid>1cb27771-ede1-42a9-9946-5c23cfea9d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Aquila Diamond Earrings')]</value>
+      <webElementGuid>4fd2891d-cee5-4ef3-94b3-875d0e58300d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW DETAILS'])[41]/following::a[2]</value>
+      <webElementGuid>cdae8c78-a440-4b88-8ca5-4e382c5fe886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BUY NOW'])[41]/following::a[3]</value>
+      <webElementGuid>61b81f61-4176-48b0-9564-bc9eb22620eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You Save'])[20]/preceding::a[1]</value>
+      <webElementGuid>d1daa174-0eaa-40e6-866e-f07cdd2f1637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(15% off)'])[4]/preceding::a[1]</value>
+      <webElementGuid>3d294bf3-a2db-4b24-b290-b6f8c69a2e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Aquila Diamond Earrings']/parent::*</value>
+      <webElementGuid>8e4261d0-08fb-4203-b6b8-e5653cda409e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/the-aquila-diamond-earrings.html?bid=MTEwMg==')])[5]</value>
+      <webElementGuid>354ca651-1389-4424-863f-e12e6ded8460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[21]/div/div[2]/div/div/div/div/h2/a</value>
+      <webElementGuid>82a9244d-3255-46cc-9224-16f3c9d1073f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-aquila-diamond-earrings.html?bid=MTEwMg==' and (text() = 'The Aquila Diamond Earrings' or . = 'The Aquila Diamond Earrings')]</value>
+      <webElementGuid>b11c3180-53c8-4477-8c0e-4bbb4eda482e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

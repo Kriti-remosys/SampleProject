@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_8,636</name>
+   <tag></tag>
+   <elementGuidId>deba46e4-4aa8-44bb-96e0-b4548dc6c45c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/div/div/div[2]/div[2]/div[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.price_section > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>577cb816-34c6-431f-a110-02323ace7839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ₹8,636</value>
+      <webElementGuid>c6061dac-dab5-4aa1-88c0-157f9a45db9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-md-9&quot;]/div[@class=&quot;right-panel light-bg&quot;]/div[@class=&quot;my-wishlist&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12 col-sm-4 col-md-4 wishlist&quot;]/div[@class=&quot;wishlist_bx&quot;]/div[@class=&quot;details&quot;]/div[@class=&quot;price_section&quot;]/span[1]</value>
+      <webElementGuid>e98ac5aa-349c-4fa5-9aa4-7db7789ee402</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div/div[2]/div/div[2]/div/div/div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>26b16652-9ab4-410f-a8d4-3e87603a1998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(5/5)'])[1]/following::span[1]</value>
+      <webElementGuid>e5ce7c3e-c2dd-4b08-b5c2-770ce8e2fb3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Naveah Diamond Ring'])[1]/following::span[2]</value>
+      <webElementGuid>c4f105ed-35d7-48db-a7d0-a72699f067ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go To Details'])[1]/preceding::span[1]</value>
+      <webElementGuid>a3561446-e557-4b84-9b64-09013cc5b754</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The My Brother My Hero Silver Rakhi'])[1]/preceding::span[1]</value>
+      <webElementGuid>574220b9-2e0b-45cc-9711-a05ef38d9d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='₹8,636']/parent::*</value>
+      <webElementGuid>048554d3-8b96-4027-b39a-5576dc6dd45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>e73d4626-6127-43fb-baa0-41ed5d298126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' ₹8,636' or . = ' ₹8,636')]</value>
+      <webElementGuid>166c5e96-4f12-42af-83d1-dee6297c98dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

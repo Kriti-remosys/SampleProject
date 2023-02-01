@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_VIEW DETAILS_addToWishList  icon-like</name>
+   <tag></tag>
+   <elementGuidId>1e76082d-807e-482b-809a-1ca2cba72c76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='prodListingUl']/li[3]/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c117187b-f819-41b4-8087-dfd51a8006fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>Javascript:void(0);</value>
+      <webElementGuid>90639835-0092-442f-9142-0a87457feee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addToWishList  icon-like</value>
+      <webElementGuid>29d4eb90-7589-4208-9569-41a86ea7b675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>user</name>
+      <type>Main</type>
+      <value>73324</value>
+      <webElementGuid>3b31c3de-c1e0-416f-9001-bebe9e01c5ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>productid</name>
+      <type>Main</type>
+      <value>355</value>
+      <webElementGuid>63bc305a-18d7-46a6-a570-d7d3aa848a1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Add To Wishlist</value>
+      <webElementGuid>b19c6ba8-1599-462b-ab84-8048d75e6780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prodListingUl&quot;)/li[@class=&quot;col-xs-6  col-lg-3 pdt-item-list&quot;]/div[@class=&quot;bx-contr&quot;]/div[@class=&quot;imageBox&quot;]/div[@class=&quot;AddwishLst&quot;]/a[@class=&quot;addToWishList  icon-like&quot;]</value>
+      <webElementGuid>f51318c5-493e-4e0a-b8f0-7658970b66cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='prodListingUl']/li[3]/div/div/div[2]/a</value>
+      <webElementGuid>3597c428-ea08-4117-b7fe-28aa5a48e8d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'Javascript:void(0);')])[32]</value>
+      <webElementGuid>d348e321-fc38-42ef-91ba-56711f17fee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div[2]/a</value>
+      <webElementGuid>64b6f6ed-c574-43dc-8077-e9858acd3d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'Javascript:void(0);' and @title = 'Add To Wishlist']</value>
+      <webElementGuid>f10ef100-2cc8-40c6-b878-3a3bdc837964</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

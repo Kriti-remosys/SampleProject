@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_20 Gram 24K Floral Gold Coin</name>
+   <tag></tag>
+   <elementGuidId>0aff8d71-da4c-4722-b288-a8b566eeb20f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>999903f8-a71c-46dc-99f1-33e122cf8475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark</value>
+      <webElementGuid>328d8fb9-103a-4a4f-b7a3-0818616cf2a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>20 Gram 24K Floral Gold Coin </value>
+      <webElementGuid>8fad64b7-5262-4d2f-8410-002a15fd4de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;leftPanelOuter margin-bottom&quot;]/div[@class=&quot;light-bg sm-bg clearfix&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;productDetails col-xs-12 col-sm-6&quot;]/div[@class=&quot;light-bg inner-details&quot;]/div[@class=&quot;titleSec clearfix&quot;]/div[@class=&quot;clearfix pos-rel&quot;]/h1[@class=&quot;dark&quot;]</value>
+      <webElementGuid>b2389d07-bca6-4a9d-9856-f5edf7edc0e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/div/h1</value>
+      <webElementGuid>59b3fb8d-9aee-4342-9b89-99394653b6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail'])[1]/following::h1[1]</value>
+      <webElementGuid>e80509fd-6f21-4a6b-a821-301def4b71ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/following::h1[1]</value>
+      <webElementGuid>d23fb9ae-b1ed-415f-8b2a-e64f2e893ce7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PC Jeweller'])[1]/preceding::h1[1]</value>
+      <webElementGuid>ded53256-bb21-4e63-a040-afc9b1fd806e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>0b73ec44-368c-4e7b-b547-3ce9615e69dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '20 Gram 24K Floral Gold Coin ' or . = '20 Gram 24K Floral Gold Coin ')]</value>
+      <webElementGuid>037c024c-d9ed-42a3-88ce-82f14f703822</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

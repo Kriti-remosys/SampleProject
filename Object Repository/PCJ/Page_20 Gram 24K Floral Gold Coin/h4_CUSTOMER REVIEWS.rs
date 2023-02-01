@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_CUSTOMER REVIEWS</name>
+   <tag></tag>
+   <elementGuidId>73cd226e-bd4f-4b77-aa70-ffdfe9964ba9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.margin-top</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='spec-accordion']/div[4]/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>7b11e563-7124-43a5-ad97-7088c1d61a13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>margin-top</value>
+      <webElementGuid>23c43925-915c-411e-a755-071c1f7bf9ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CUSTOMER REVIEWS </value>
+      <webElementGuid>466cf558-3818-4883-bf3e-7272e188d60c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;spec-accordion&quot;)/div[@class=&quot;margin-vertical  clearfix light-bg write-review&quot;]/h4[@class=&quot;margin-top&quot;]</value>
+      <webElementGuid>4c0f458b-f6b5-45d4-8ec7-a2ba07226beb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='spec-accordion']/div[4]/h4</value>
+      <webElementGuid>0ddbc2ac-c825-4db8-9ca1-b35d6a3e1663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Write Your Review'])[1]/following::h4[1]</value>
+      <webElementGuid>2a2a9a04-60f4-4f62-ac6d-17886bb11e33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Applicable'])[2]/following::h4[1]</value>
+      <webElementGuid>e8f9b258-7c3a-4802-bc10-88cb93600c01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P'])[1]/preceding::h4[1]</value>
+      <webElementGuid>f5aab524-45ce-487c-b6a2-b38c9abbb08a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CUSTOMER REVIEWS']/parent::*</value>
+      <webElementGuid>513bd08a-84d9-4326-aaaf-a2e645a31971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/h4</value>
+      <webElementGuid>7713e223-480f-4ae8-b514-95fce76d32ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'CUSTOMER REVIEWS ' or . = 'CUSTOMER REVIEWS ')]</value>
+      <webElementGuid>61557e62-2352-4424-bbd0-7e821a4824ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

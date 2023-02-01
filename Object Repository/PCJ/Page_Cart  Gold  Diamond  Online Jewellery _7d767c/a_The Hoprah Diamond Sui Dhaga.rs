@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_The Hoprah Diamond Sui Dhaga</name>
+   <tag></tag>
+   <elementGuidId>aa5c5e3c-2a98-4d05-8453-cdf9a790fa7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.readOnlyLink.dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_ajax_section']/div[2]/div/div/figcaption/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b61b2ac0-320a-44b7-8434-1cfadf6cd97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/the-hoprah-diamond-sui-dhaga.html?configid=458637</value>
+      <webElementGuid>ae29c55e-b638-4c94-b261-09a5772cedbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>readOnlyLink dark</value>
+      <webElementGuid>7afa70ec-7c66-4f8d-a389-ebc5c4130ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>646d8ac3-ad0d-4afa-9af9-45d2cb9f2939</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>The Hoprah Diamond Sui Dhaga</value>
+      <webElementGuid>8d773bba-e413-48bd-aa8e-cc352a48cef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Hoprah Diamond Sui Dhaga</value>
+      <webElementGuid>ed4426d5-a0da-483f-a270-dc3146c7da75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_section&quot;)/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;col-md-9 col-xs-12 cartinr left&quot;]/div[@id=&quot;cart_ajax_section&quot;]/div[@class=&quot;clearfix cartItem&quot;]/div[@class=&quot;col-sm-6 col-xs-6 col-lg-6 rmv-padding-left brk6-left&quot;]/div[@class=&quot;cartItemName clearfix&quot;]/figcaption[1]/a[@class=&quot;readOnlyLink dark&quot;]</value>
+      <webElementGuid>d3d43851-cb3e-4a7b-8c2e-186e86afb5e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_ajax_section']/div[2]/div/div/figcaption/a</value>
+      <webElementGuid>5990e843-e2c4-4f17-8a65-ec4807e9a45b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'The Hoprah Diamond Sui Dhaga')]</value>
+      <webElementGuid>c5b285fe-6d68-45e0-af8b-3d6e58fd1ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/following::a[1]</value>
+      <webElementGuid>4ee6012e-0ffb-4a79-85a8-cb30e4244547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price'])[1]/following::a[1]</value>
+      <webElementGuid>c2808c44-0010-4428-9a97-461809d636ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal'])[1]/preceding::a[1]</value>
+      <webElementGuid>f8946429-1e90-409d-be49-72b27770705a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Hoprah Diamond Sui Dhaga']/parent::*</value>
+      <webElementGuid>8ee41fa1-8d69-43a9-8354-bc0c7ae627a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/the-hoprah-diamond-sui-dhaga.html?configid=458637')]</value>
+      <webElementGuid>c3aeb671-b443-4aec-9782-13988f972b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//figcaption/a</value>
+      <webElementGuid>e788518d-6fe8-4936-8504-c0df85c185ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/the-hoprah-diamond-sui-dhaga.html?configid=458637' and @title = 'The Hoprah Diamond Sui Dhaga' and (text() = 'The Hoprah Diamond Sui Dhaga' or . = 'The Hoprah Diamond Sui Dhaga')]</value>
+      <webElementGuid>95bce848-b03b-44a2-820c-44bea298b0ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

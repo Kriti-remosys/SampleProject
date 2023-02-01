@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_View details</name>
+   <tag></tag>
+   <elementGuidId>9d114d52-1325-425b-8b5f-a159d7dd77ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-xs.btn.btn-link.btn-block.view.text-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='myTable']/li/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b7e59176-88b1-48ee-9c00-8d7267a90be0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/invoice/id/71629/type/product/</value>
+      <webElementGuid>b20f0634-0da7-489b-8f3e-2441ebaada97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-xs btn btn-link btn-block view text-right</value>
+      <webElementGuid>16c286ae-b2ce-455d-994c-056429cdb765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>PURCHASE DETAILS</value>
+      <webElementGuid>ce210588-7cad-4f7b-9820-5b9325cfea34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details</value>
+      <webElementGuid>361ccb8b-1722-465b-9ef4-1766a133b0dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myTable&quot;)/li[@class=&quot;clearfix order-items rmv-padding-horizontal&quot;]/div[@class=&quot;order-top-sec clearfix&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-xs-6 pull-right text-right rmv-padding&quot;]/a[@class=&quot;btn-xs btn btn-link btn-block view text-right&quot;]</value>
+      <webElementGuid>feb5cbf8-5411-4d14-8277-4f9dcf6b0d57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='myTable']/li/div/div[3]/a</value>
+      <webElementGuid>5785724a-a75e-40f6-9507-6b5c3861c50d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View details')]</value>
+      <webElementGuid>474a6e87-fdbe-4ff2-aa14-cb078cab3282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹2,473'])[1]/following::a[1]</value>
+      <webElementGuid>5a4cefe8-1873-4e6c-8c34-70ae2e614dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Order'])[3]/following::a[1]</value>
+      <webElementGuid>d8be1108-e52e-48f3-a07f-63c57e673ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The 925 Silver Kada AGKD00005'])[1]/preceding::a[2]</value>
+      <webElementGuid>cfec5249-bfce-4ac5-b6a6-eb49fb320481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View details']/parent::*</value>
+      <webElementGuid>8eb12d23-04f0-4cf0-8632-77e51fbdfc2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/invoice/id/71629/type/product/')]</value>
+      <webElementGuid>77d74847-8f45-4634-bb72-33c2d5f6dbf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[3]/a</value>
+      <webElementGuid>1c2358ad-a671-40c3-b192-8814797dd287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/invoice/id/71629/type/product/' and @title = 'PURCHASE DETAILS' and (text() = 'View details' or . = 'View details')]</value>
+      <webElementGuid>032eb721-6e90-4e81-9ed3-265b79e2d097</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

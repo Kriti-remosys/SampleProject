@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_The Gold Chain GCH00140001 Ships Faster</name>
+   <tag></tag>
+   <elementGuidId>be16a130-3774-4f1f-8d25-2f936203c946</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h1.dark</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/div/h1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>011eadec-5d97-4197-bf23-a0fd997984e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dark</value>
+      <webElementGuid>f2e68c67-90d4-410f-8926-b6c5db1cfcc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The Gold Chain GCH00140001 Ships Faster </value>
+      <webElementGuid>4fb52a95-ce17-47b2-89ef-e53d47ed8145</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;clearfix&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;leftPanelOuter margin-bottom&quot;]/div[@class=&quot;light-bg sm-bg clearfix&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;productDetails col-xs-12 col-sm-6&quot;]/div[@class=&quot;light-bg inner-details&quot;]/div[@class=&quot;titleSec clearfix&quot;]/div[@class=&quot;clearfix pos-rel&quot;]/h1[@class=&quot;dark&quot;]</value>
+      <webElementGuid>e3578113-33ca-44c9-b800-1da931e3508c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/div[2]/div/div/div/div/div[3]/div/div/div/h1</value>
+      <webElementGuid>008c5b0e-dd4b-4818-a267-e174c75fcf36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PCJ - Solan, Himachal Pradesh'])[1]/preceding::h1[1]</value>
+      <webElementGuid>7437d4cc-6568-47c0-aed7-3d3aab448e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>265c5908-de53-49cd-bb83-8482dfe96f78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'The Gold Chain GCH00140001 Ships Faster ' or . = 'The Gold Chain GCH00140001 Ships Faster ')]</value>
+      <webElementGuid>762653ed-5a41-4534-9122-e98c1db0c36b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
